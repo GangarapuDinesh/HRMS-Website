@@ -1,0 +1,14 @@
+.metadata/
+**/.metadata/
+node_modules/
+**/node_modules/
+dist/
+build/
+target/
+**/target/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.DS_Store
